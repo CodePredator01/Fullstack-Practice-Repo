@@ -20,6 +20,7 @@ h3{
     text-align: center;
     margin-top: 0px;
     margin-bottom: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .container{
@@ -27,7 +28,7 @@ h3{
     display: flex;
     width: 100%;
 }
-
+ 
 .card{
     width: 22%;
     margin: 2%;
