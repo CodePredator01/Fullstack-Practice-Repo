@@ -24,7 +24,7 @@ h2{
 
 #home{
     background-image: url(assets/header-bg.jpg);
-    background-size: cover;
+    background-size:cover;
     background-repeat: no-repeat;
     background-position: fixed;
     margin: 0;
